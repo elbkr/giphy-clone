@@ -5,4 +5,4 @@ to use it:
 
 Developing it everyday
 
-# Made by elttcaiman with <3 for leaarning purposes
+# Made by elttcaiman with <3 for learning purposes
